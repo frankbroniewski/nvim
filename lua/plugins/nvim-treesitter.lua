@@ -9,7 +9,7 @@ return {
                 enable = true,
                 additional_vim_regex_highlighting = false
             },
-            indent = { enabled = true }
+            indent = { enable = true }
         })
     end
 }
